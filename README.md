@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -45,4 +48,13 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
