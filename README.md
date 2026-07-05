@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
+| [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
