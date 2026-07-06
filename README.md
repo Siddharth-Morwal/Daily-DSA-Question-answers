@@ -10,6 +10,7 @@
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -72,5 +74,6 @@
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
+| [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
