@@ -47,6 +47,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0100-same-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -85,18 +86,21 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0543-diameter-of-binary-tree) |
