@@ -6,6 +6,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Counting
@@ -96,6 +98,7 @@
 | [0100-same-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0199-binary-tree-right-side-view) |
@@ -122,6 +125,7 @@
 | [0100-same-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0199-binary-tree-right-side-view) |
@@ -142,4 +146,5 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
