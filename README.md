@@ -10,6 +10,7 @@
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
@@ -122,6 +125,7 @@
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0216-combination-sum-iii) |
 ## Tree
@@ -145,6 +149,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0101-symmetric-tree) |
