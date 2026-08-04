@@ -17,6 +17,7 @@
 | [0216-combination-sum-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
+| [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
@@ -131,6 +132,7 @@
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 ## Sorting
 |  |
@@ -222,6 +225,7 @@
 | [0078-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
+| [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
@@ -246,4 +250,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
