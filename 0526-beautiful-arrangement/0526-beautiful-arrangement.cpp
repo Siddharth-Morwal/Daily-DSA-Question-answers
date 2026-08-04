@@ -1,24 +1,25 @@
 class Solution {
 public:
-    int count = 0;
     int countArrangement(int n) {
-      vector<bool> visited(n+1 , false);
-      calculate(n , visited , 1);
+      vector<int> nums(n , 0);
+     for(int i = 0; i < n; i++){
+        nums[i] = i+1;
+     }
+      int count = 0;
+      calculate(n , nums , 0 , count);
       return count;
     }
-    void calculate(int n ,vector<bool>& visited , int idx){
-      if(idx > n){
+    void calculate(int n ,vector<int>& nums , int idx , int& count){
+      if(idx == n){
         count++;
         return;
       }
-      else{
-        for(int i = 1; i <= n; i++){
-            if(!visited[i] && (idx % i == 0 || i % idx == 0)){
-                visited[i] = true;
-                calculate(n , visited ,  idx+1);
-                visited[i] = false;
-            }
+      for(int i = idx; i < n; i++){
+        swap(nums[i] , nums[idx]);
+        if(nums[idx] % (idx + 1) == 0 || (idx + 1) % nums[idx] == 0){
+            calculate(n , nums , idx + 1 , count);
         }
+        swap(nums[i] , nums[idx]);
       }
     }
     
