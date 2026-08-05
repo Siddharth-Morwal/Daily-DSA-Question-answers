@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
@@ -238,6 +240,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
