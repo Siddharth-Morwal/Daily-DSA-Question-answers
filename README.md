@@ -17,6 +17,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0216-combination-sum-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
@@ -97,6 +98,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -260,4 +262,20 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
