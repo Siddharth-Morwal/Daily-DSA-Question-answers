@@ -21,6 +21,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -49,6 +50,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -197,6 +199,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
+| [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 ## Sorting
 |  |
