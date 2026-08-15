@@ -26,6 +26,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
@@ -221,6 +222,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0337-house-robber-iii) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 ## Sorting
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## DP on Trees
 |  |
 | ------- |
