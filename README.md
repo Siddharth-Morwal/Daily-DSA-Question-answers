@@ -225,6 +225,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Sorting
 |  |
 | ------- |
