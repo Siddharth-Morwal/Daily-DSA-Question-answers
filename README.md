@@ -60,6 +60,7 @@
 | [0131-palindrome-partitioning](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -80,6 +82,7 @@
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3866-first-unique-even-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3866-first-unique-even-element) |
@@ -327,6 +330,7 @@
 | [0076-minimum-window-substring](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
