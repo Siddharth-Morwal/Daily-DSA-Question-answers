@@ -27,6 +27,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
@@ -58,6 +59,7 @@
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
@@ -236,6 +238,7 @@
 | [0322-coin-change](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
@@ -353,6 +356,7 @@
 | [0279-perfect-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -374,5 +378,6 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
