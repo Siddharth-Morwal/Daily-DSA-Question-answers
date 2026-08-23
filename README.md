@@ -64,6 +64,7 @@
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
@@ -276,6 +277,7 @@
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 ## Bitmask
 |  |
 | ------- |
@@ -383,6 +386,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 ## DP on Trees
 |  |
 | ------- |
