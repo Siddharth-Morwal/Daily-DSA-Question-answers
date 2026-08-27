@@ -70,6 +70,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3866-first-unique-even-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
@@ -94,6 +96,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3866-first-unique-even-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
@@ -326,6 +329,7 @@
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -396,6 +400,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## DP on Trees
 |  |
 | ------- |
