@@ -46,6 +46,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
@@ -85,6 +86,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -164,6 +166,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
+| [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
