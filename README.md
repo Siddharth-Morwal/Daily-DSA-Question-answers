@@ -43,6 +43,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -69,6 +70,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
+| [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 ## Breadth-First Search
@@ -165,6 +168,7 @@
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
+| [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
