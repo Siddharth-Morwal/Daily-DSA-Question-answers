@@ -38,6 +38,7 @@
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -170,6 +171,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2845-count-of-interesting-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2845-count-of-interesting-subarrays) |
@@ -318,6 +320,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
