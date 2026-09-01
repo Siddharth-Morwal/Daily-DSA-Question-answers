@@ -31,6 +31,7 @@
 | [0494-target-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
