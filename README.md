@@ -143,6 +143,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
@@ -319,6 +320,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0279-perfect-squares) |
+| [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
