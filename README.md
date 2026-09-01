@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0046-permutations) |
@@ -136,6 +137,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
