@@ -60,6 +60,7 @@
 | [2845-count-of-interesting-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -403,6 +404,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Queue
 |  |
 | ------- |
