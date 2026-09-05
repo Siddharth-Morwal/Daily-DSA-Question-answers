@@ -72,6 +72,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
