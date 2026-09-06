@@ -80,6 +80,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
