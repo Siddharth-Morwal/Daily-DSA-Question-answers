@@ -41,6 +41,7 @@
 | [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
@@ -168,6 +170,7 @@
 | [0322-coin-change](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
