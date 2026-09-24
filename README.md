@@ -36,6 +36,7 @@
 | [0518-coin-change-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -138,6 +139,7 @@
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
@@ -174,6 +176,7 @@
 | [0279-perfect-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0841-keys-and-rooms) |
@@ -326,6 +329,7 @@
 | [0494-target-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
