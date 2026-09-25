@@ -361,6 +361,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -390,6 +391,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
