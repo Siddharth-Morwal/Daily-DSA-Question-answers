@@ -58,6 +58,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -149,6 +150,7 @@
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -191,6 +193,7 @@
 | [1254-number-of-closed-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
