@@ -56,6 +56,7 @@
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1765-map-of-highest-peak) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
