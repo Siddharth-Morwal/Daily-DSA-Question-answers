@@ -90,6 +90,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0115-distinct-subsequences) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0046-permutations) |
@@ -332,6 +334,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -536,5 +539,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
