@@ -92,6 +92,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0115-distinct-subsequences) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -419,6 +421,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -543,5 +546,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
