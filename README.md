@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0463-island-perimeter) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
