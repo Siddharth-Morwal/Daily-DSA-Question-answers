@@ -203,6 +203,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1254-number-of-closed-islands) |
+| [1462-course-schedule-iv](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1462-course-schedule-iv) |
 | [1765-map-of-highest-peak](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -230,6 +231,7 @@
 | [0207-course-schedule](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0310-minimum-height-trees) |
 | [0841-keys-and-rooms](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0841-keys-and-rooms) |
+| [1462-course-schedule-iv](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -320,6 +322,7 @@
 | [0841-keys-and-rooms](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1254-number-of-closed-islands) |
+| [1462-course-schedule-iv](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1462-course-schedule-iv) |
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -559,6 +562,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0310-minimum-height-trees) |
+| [1462-course-schedule-iv](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1462-course-schedule-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
