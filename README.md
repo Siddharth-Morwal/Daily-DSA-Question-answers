@@ -78,6 +78,7 @@
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3355-zero-array-transformation-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3355-zero-array-transformation-i) |
@@ -170,6 +171,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
@@ -271,6 +273,7 @@
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3312-sorted-gcd-pair-queries) |
 | [3355-zero-array-transformation-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3355-zero-array-transformation-i) |
 | [3903-smallest-stable-index-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3903-smallest-stable-index-i) |
