@@ -101,6 +101,7 @@
 | [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -436,6 +437,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -561,6 +563,7 @@
 | [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
 |  |
