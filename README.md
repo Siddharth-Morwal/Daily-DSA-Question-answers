@@ -48,6 +48,7 @@
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
@@ -254,6 +255,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
