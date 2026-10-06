@@ -68,6 +68,7 @@
 | [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2121-intervals-between-identical-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2536-increment-submatrices-by-one](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2615-sum-of-distances) |
@@ -181,6 +182,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0059-spiral-matrix-ii) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -461,6 +463,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
