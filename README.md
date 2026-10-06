@@ -107,6 +107,7 @@
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -453,6 +454,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -546,6 +548,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -579,6 +582,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
 |  |
