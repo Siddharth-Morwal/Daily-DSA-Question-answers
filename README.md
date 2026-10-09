@@ -113,6 +113,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
@@ -462,6 +463,7 @@
 | [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -559,6 +561,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -594,6 +597,7 @@
 | [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
 |  |
