@@ -41,6 +41,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -204,6 +205,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -417,6 +419,7 @@
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -486,6 +489,7 @@
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -575,6 +579,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
