@@ -438,6 +438,7 @@
 | [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
