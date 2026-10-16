@@ -56,6 +56,7 @@
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -203,6 +204,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2055-plates-between-candles](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2055-plates-between-candles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -415,6 +417,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
@@ -480,6 +483,7 @@
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
