@@ -24,6 +24,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0238-product-of-array-except-self) |
@@ -199,6 +200,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
