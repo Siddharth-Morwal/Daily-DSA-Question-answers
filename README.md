@@ -60,6 +60,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -431,6 +432,7 @@
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
