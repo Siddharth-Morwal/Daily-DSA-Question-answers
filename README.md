@@ -52,6 +52,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
+| [0986-interval-list-intersections](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0986-interval-list-intersections) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1109-corporate-flight-bookings) |
@@ -495,6 +496,7 @@
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
+| [0986-interval-list-intersections](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -646,4 +648,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
