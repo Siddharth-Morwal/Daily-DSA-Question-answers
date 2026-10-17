@@ -91,6 +91,7 @@
 | [2906-construct-product-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3026-maximum-good-subarray-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -436,6 +437,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -602,6 +604,7 @@
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## DP on Trees
 |  |
