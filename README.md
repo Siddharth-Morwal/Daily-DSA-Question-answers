@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0078-subsets) |
@@ -419,6 +420,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
@@ -639,4 +641,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
