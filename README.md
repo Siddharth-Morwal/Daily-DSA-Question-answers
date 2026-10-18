@@ -100,6 +100,7 @@
 | [3355-zero-array-transformation-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3355-zero-array-transformation-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3866-first-unique-even-element) |
@@ -439,6 +440,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -462,6 +464,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3875-construct-uniform-parity-array-i) |
@@ -527,6 +530,7 @@
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bitmask
 |  |
 | ------- |
@@ -605,6 +609,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## DP on Trees
 |  |
