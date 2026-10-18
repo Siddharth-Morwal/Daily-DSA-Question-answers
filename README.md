@@ -47,6 +47,7 @@
 | [0542-01-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -419,6 +420,7 @@
 | [0518-coin-change-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -440,6 +442,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1288-remove-covered-intervals) |
@@ -611,6 +614,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -678,4 +682,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0986-interval-list-intersections) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
