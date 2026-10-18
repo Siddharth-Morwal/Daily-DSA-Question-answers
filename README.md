@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0057-insert-interval) |
@@ -116,6 +117,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0115-distinct-subsequences) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -428,6 +431,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0435-non-overlapping-intervals) |
