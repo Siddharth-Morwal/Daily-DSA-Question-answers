@@ -80,6 +80,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2121-intervals-between-identical-elements) |
+| [2126-destroying-asteroids](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2536-increment-submatrices-by-one](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2536-increment-submatrices-by-one) |
@@ -438,6 +439,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2126-destroying-asteroids) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -607,6 +609,7 @@
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1927-sum-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2126-destroying-asteroids) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
