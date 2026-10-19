@@ -56,6 +56,7 @@
 | [0740-delete-and-earn](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [0986-interval-list-intersections](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0986-interval-list-intersections) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -451,6 +452,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0646-maximum-length-of-pair-chain) |
+| [0853-car-fleet](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1288-remove-covered-intervals) |
@@ -515,6 +517,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0678-valid-parenthesis-string) |
+| [0853-car-fleet](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1021-remove-outermost-parentheses) |
@@ -682,6 +685,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0853-car-fleet](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0853-car-fleet) |
 ## Quicksort
 |  |
 | ------- |
