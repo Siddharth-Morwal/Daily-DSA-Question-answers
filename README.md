@@ -37,6 +37,7 @@
 | [0322-coin-change](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
@@ -222,6 +223,7 @@
 | [0162-find-peak-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
+| [0436-find-right-interval](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -443,6 +445,7 @@
 | [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
