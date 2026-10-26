@@ -109,6 +109,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -212,6 +213,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -390,6 +394,7 @@
 | [1462-course-schedule-iv](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1462-course-schedule-iv) |
 | [1905-count-sub-islands](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
