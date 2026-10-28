@@ -116,6 +116,7 @@
 | [3866-first-unique-even-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -214,6 +215,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -450,6 +452,7 @@
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1872-stone-game-viii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1872-stone-game-viii) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -523,6 +526,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
