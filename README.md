@@ -40,6 +40,7 @@
 | [0436-find-right-interval](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0494-target-sum) |
@@ -465,6 +466,7 @@
 | [0436-find-right-interval](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0646-maximum-length-of-pair-chain) |
@@ -496,6 +498,7 @@
 | [0279-perfect-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1248-count-number-of-nice-subarrays) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
