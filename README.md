@@ -115,6 +115,7 @@
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3866-first-unique-even-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3875-construct-uniform-parity-array-i) |
@@ -511,6 +512,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
