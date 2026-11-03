@@ -90,6 +90,7 @@
 | [2121-intervals-between-identical-elements](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2402-meeting-rooms-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2536-increment-submatrices-by-one](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2615-sum-of-distances) |
@@ -173,6 +174,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2121-intervals-between-identical-elements](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2121-intervals-between-identical-elements) |
+| [2402-meeting-rooms-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2845-count-of-interesting-subarrays) |
@@ -227,6 +229,7 @@
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2402-meeting-rooms-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2402-meeting-rooms-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -292,6 +295,7 @@
 | [0692-top-k-frequent-words](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -480,6 +484,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2126-destroying-asteroids) |
+| [2402-meeting-rooms-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2402-meeting-rooms-iii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3169-count-days-without-meetings](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/3536-maximum-product-of-two-digits) |
