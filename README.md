@@ -63,6 +63,7 @@
 | [0853-car-fleet](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0877-stone-game) |
 | [0986-interval-list-intersections](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0986-interval-list-intersections) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1109-corporate-flight-bookings) |
@@ -248,6 +249,7 @@
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1855-maximum-distance-between-a-pair-of-values) |
