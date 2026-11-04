@@ -33,6 +33,7 @@
 | [0216-combination-sum-iii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0322-coin-change) |
@@ -242,6 +243,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0441-arranging-coins) |
@@ -540,6 +542,7 @@
 | [0090-subsets-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/1310-xor-queries-of-a-subarray) |
@@ -564,6 +567,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0611-valid-triangle-number) |
@@ -741,4 +745,12 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0692-top-k-frequent-words) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
