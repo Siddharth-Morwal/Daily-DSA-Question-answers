@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0056-merge-intervals) |
@@ -200,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0073-set-matrix-zeroes) |
@@ -500,6 +502,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Siddharth-Morwal/Daily-DSA-Question-answers/tree/master/0367-valid-perfect-square) |
